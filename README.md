@@ -1,4 +1,4 @@
-# fairness-exploratory-analysis
+# Fairness analysis
 Exploratory of the notion of fairness on the basis of the paper Verma, Sahil, and Julia Rubin. "Fairness definitions explained." Proceedings of the international workshop on software fairness. 2018.
 
 **1.	Introduction**
